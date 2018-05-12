@@ -1,0 +1,32 @@
+_repo: A-Text-Book-of-the-History-of-Painting_18900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, John Charles
+    aliases:
+    - Dyke, John Charles Van
+    - Dyke, John C. Van
+    - Van Dyke, John C. (John Charles)
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '7733'
+    url: http://www.gutenberg.org/2009/agents/7733
+    wikipedia: http://en.wikipedia.org/wiki/John_Charles_Van_Dyke
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2006-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- History'
+- !lcc 'ND'
+title: A Text-Book of the History of Painting
+url: http://www.gutenberg.org/ebooks/18900
