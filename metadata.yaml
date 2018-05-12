@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7733
     wikipedia: http://en.wikipedia.org/wiki/John_Charles_Van_Dyke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18900#A-Text-Book-of-the-History-of-Painting
 gutenberg_bookshelf: Art
 gutenberg_issued: '2006-07-23'
 gutenberg_type: Text
